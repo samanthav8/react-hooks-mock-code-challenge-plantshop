@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Olive Tree",
+      "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Olive-tree_Small_Bryant_Cream_Variant.jpg?v=1696527494",
+      "price": "40.00",
+      "id": 8
+    },
+    {
+      "name": "Olive Tree",
+      "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Olive-tree_Small_Bryant_Cream_Variant.jpg?v=1696527494",
+      "price": "40.00",
+      "id": 9
     }
   ]
 }
